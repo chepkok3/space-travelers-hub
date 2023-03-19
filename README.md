@@ -28,9 +28,9 @@
 
 # 📖 [Space Travelers' Hub] <a name="react"></a>
 
-> **Space Travelers' Hub is a web application for a company that provides commercial and scientific space travel services.**
+> **Space Travelers' Hub is a web application that uses React-Redux to create a user-friendly web application allowing users to book rockets and join space missions, using real-time data from the SpaceX API. The app includes features such as booking management, mission tracking, and user profiles, and can be easily customized to suit different needs.**
 
-## 🛠 Built With <a name="built-with">HTML, CSS, JavaScript, React & redux</a>
+## 🛠 Built With <a name="built-with">HTML, CSS, JavaScript, React & Redux</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--
+- [Live Demo Link](https://space-travelers-hub-qb4f.onrender.com/my_profile)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
