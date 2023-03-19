@@ -162,6 +162,6 @@ I would like to thank Microverse, and theMealDB who are owners of the API docume
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./License.md) licensed.
+This project is [MIT](https://github.com/chepkok3/space-travelers-hub/blob/master/MIT%20License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
